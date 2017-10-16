@@ -1,0 +1,39 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2017-10-17 00:47:06 +0530",
+      "iron_leggings": "2017-10-17 00:47:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-10-17 00:47:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2017-10-17 00:47:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-10-17 00:48:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2017-10-17 00:48:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2017-10-17 00:52:25 +0530"
+    },
+    "done": false
+  }
+}
